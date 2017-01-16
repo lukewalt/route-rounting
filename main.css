@@ -1,13 +1,27 @@
 body {
     text-align: center;
     background-color: tomato;
+    color: white;
 }
 h1 {
     font-family: 'Bowlby One', cursive;
+    font-size: 4em;
+    letter-spacing: 2px;
+}
+
+h4 {
+    font-family: 'Bowlby One', cursive;
+    letter-spacing: 2px;
 
 }
+
 
 div {
     font-family: 'Cutive Mono', monospace;
 
+}
+
+.highway-container {
+    text-align: left;
+    padding: 0 7%;
 }
